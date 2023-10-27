@@ -1,6 +1,6 @@
-*/.idea
-*/elems
-*/.DS_store
+# Custom user ignored files
+Scraping/code_resources/miscellaneous
+**/.DS_store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
