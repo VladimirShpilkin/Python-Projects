@@ -166,3 +166,13 @@ Netflix/Shows per Cast Size.csv
 Netflix/Movies_Info.csv
 Netflix/Movie Count and Duration Joined.csv
 Netflix/Average Duration per Country.csv
+binance_api_python/myenv/pyvenv.cfg
+binance_api_python/myenv/Scripts/activate
+binance_api_python/myenv/Scripts/activate.bat
+binance_api_python/myenv/Scripts/Activate.ps1
+binance_api_python/myenv/Scripts/deactivate.bat
+binance_api_python/myenv/Scripts/pip.exe
+binance_api_python/myenv/Scripts/pip3.12.exe
+binance_api_python/myenv/Scripts/pip3.exe
+binance_api_python/myenv/Scripts/python.exe
+binance_api_python/myenv/Scripts/pythonw.exe
