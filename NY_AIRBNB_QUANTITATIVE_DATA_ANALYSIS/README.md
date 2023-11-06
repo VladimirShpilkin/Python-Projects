@@ -1,1 +1,0 @@
-#This project is related to the quantitative data analysis of the New York City AirBnB data
